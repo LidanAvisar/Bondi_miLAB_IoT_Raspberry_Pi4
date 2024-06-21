@@ -45,10 +45,6 @@ Research shows that maintaining relationships between grandparents and other fam
 - [Explanatory Video](https://drive.google.com/file/d/1oRz7jxbk9O_OTCZbscWdY61ZSWOPgCNI/view?usp=sharing)
 - [Project Blog](https://ergatee.wixsite.com/iot-final-project)
 
-## Getting Started
-
-To set up and run the Bondi project, follow these steps:
-
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/bondi.git
